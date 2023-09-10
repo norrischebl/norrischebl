@@ -10,7 +10,7 @@ I'm basically the Gordon Ramsey of `<javascript>`, from Front-End to Back-End, I
 - NodeJS
 
 ## Projects
-In my spare time, I do two things: fly around the city fighting crime and make great coffee... unfortunately I can't reveal my superhero name yet, too dangerous. But really, I'm just committed to changing the world one line of code at a time
+In my spare time, I do two things: make great coffee and fly around the city fighting crime... unfortunately I can't reveal my superhero name yet, too dangerous. But really, I'm just committed to changing the world one line of code at a time
 
 ```javascript
 Here is a list of my personal projects:
