@@ -1,13 +1,16 @@
 ## About me
-Hey 👋. My name is Norris, and I am a `Full stack engineer` working remotely with the whole world 🌎
+Hey 👋. My name is Norris, and I am a `Full stack developer` working remotely with the whole world 🌎
 
 I'm a musician and true cinephile as well.
+
+Maybe you've seen my AI content on [TikTok](https://tiktok.com/@norrizzy) 👀
 
 ## Tech skills
 I'm basically the Gordon Ramsey of `<javascript>`, from Front-End to Back-End, I chef it up 👨‍🍳
 
 - React
-- NodeJS
+- Node/Express
+  
 
 ## Projects
 In my spare time, I do two things: make great coffee and fly around the city fighting crime... unfortunately I can't reveal my superhero name yet, too dangerous.
