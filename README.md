@@ -9,7 +9,9 @@ Maybe you've seen my AI content on [TikTok](https://tiktok.com/@norrizzy) 👀
 I'm basically the Gordon Ramsey of `<javascript>`, from Front-End to Back-End, I chef it up 👨‍🍳
 
 - React
-- Node/Express
+- Next
+- Node
+- Express
   
 
 ## Projects
