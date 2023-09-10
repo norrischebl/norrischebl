@@ -18,7 +18,7 @@ I'm basically the Gordon Ramsey of `<javascript>`, from Front-End to Back-End, I
 In my spare time, I do two things: make great coffee and fly around the city fighting crime... unfortunately I can't reveal my superhero name yet, too dangerous.
 
 ```javascript
-In return, here's is a list of my personal projects:
+In return, here's is a list of my recent developments:
 ```
 
 ### [Dittobot.ai](https://dittobot.ai)
