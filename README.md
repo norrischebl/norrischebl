@@ -21,7 +21,7 @@ In my spare time, I do two things: make great coffee and fly around the city fig
 In return, here's is a list of my recent developments:
 ```
 
-### [Dittobot.ai](https://dittobot.ai)
+### [diddo.chat](https://diddo.chat)
 An advanced chatbot builder that uses the power of AI to create intelligent chatbots for businesses.
 
 ### [Arkade.fun](https://arkade.fun)
