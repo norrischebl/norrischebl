@@ -3,7 +3,7 @@ Hey 👋. My name is Norris, and I am a `Full stack developer` working remotely 
 
 I'm a musician and true cinephile as well.
 
-Maybe you've seen my AI content on [TikTok](https://tiktok.com/@norrizzy) 👀
+Maybe you've seen my AI content on [TikTok](https://tiktok.com/@norris.ai) 👀
 
 ## Tech skills
 I'm basically the Gordon Ramsey of `<javascript>`, from Front-End to Back-End, I chef it up 👨‍🍳
