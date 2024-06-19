@@ -1,17 +1,20 @@
 ## About me
-Hey 👋. My name is Norris, and I am a `Full stack developer` working remotely with the whole world 🌎
+Hey 👋. My name is Norris, and I am a `Software Engineer` working remotely with the whole world 🌎
 
 I'm a musician and true cinephile as well.
 
 Maybe you've seen my AI content on [TikTok](https://tiktok.com/@norris.ai) 👀
 
 ## Tech skills
-I'm basically the Gordon Ramsey of `<javascript>`, from Front-End to Back-End, I chef it up 👨‍🍳
+I'm basically the Gordon Ramsey of `coding`, from Front-End to Back-End, I chef it up 👨‍🍳
 
+- Gen AI
+- Blockchain
 - React
 - Next
 - Node
 - Express
+- Python
 
 ### Check out my [LinkedIn](https://www.linkedin.com/in/norrischebl/) for more details
 
@@ -19,7 +22,7 @@ I'm basically the Gordon Ramsey of `<javascript>`, from Front-End to Back-End, I
 In my spare time, I do two things: make great coffee and fly around the city fighting crime... unfortunately I can't reveal my superhero name yet, too dangerous.
 
 ```javascript
-In return, here's is a list of my recent developments:
+In return, here's is a list of my recent solo developments:
 ```
 
 ### [diddo.chat](https://diddo.chat)
